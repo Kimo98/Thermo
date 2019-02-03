@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thermo</string>
+    <string-array name="Device_name">
+        <item>Android</item>
+        <item>Iphone</item>
+        <item>Windows</item>
+        <item>Blackberry</item>
+        <item>Linux</item>
+    </string-array>
+</resources>
