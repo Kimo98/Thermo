@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892540060222",
+    "firebase_url": "https://thermo-c6dc7.firebaseio.com",
+    "project_id": "thermo-c6dc7",
+    "storage_bucket": "thermo-c6dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892540060222:android:2fc0b4caaa243b95",
+        "android_client_info": {
+          "package_name": "com.example.karimmahmoud.thermo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892540060222-980t9lm0679o78177lbbjsemfg1cvj6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karimmahmoud.thermo",
+            "certificate_hash": "1f258a01bbc719e1d576ddf981d5e9395f7b75ba"
+          }
+        },
+        {
+          "client_id": "892540060222-24o7uuom0mdqadjgo9sfds2br8meoiav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5aucCr3TuGhI8k9WcHVJ90z-GfsPS1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892540060222-24o7uuom0mdqadjgo9sfds2br8meoiav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
