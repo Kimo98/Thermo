@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">Thermo</string>
-    <string-array name="Device_name">
-        <item>Android</item>
-        <item>Iphone</item>
-        <item>Windows</item>
-        <item>Blackberry</item>
-        <item>Linux</item>
+
+    <string-array name="Languages">
+        <item>SQL</item>
+        <item>JAVA</item>
+        <item>JAVA SCRIPT</item>
+        <item>C#</item>
+        <item>PYTHON</item>
+        <item>C++</item>
+        <item>PHP</item>
+
     </string-array>
 </resources>
