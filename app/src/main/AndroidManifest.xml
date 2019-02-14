@@ -19,7 +19,6 @@
         <activity android:name=".ListActivity" />
         <activity android:name=".DeviceDetail" />
         <activity android:name=".RegisterActivity" />
-        <activity android:name=".List2"></activity>
     </application>
 
 </manifest>
